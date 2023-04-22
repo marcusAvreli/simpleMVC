@@ -1,0 +1,34 @@
+2023-04-22 17:07:01.636 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.launcher.AbstractApplicationLauncher.debugJustInCase(AbstractApplicationLauncher.java:78)] - Init: Starting application
+2023-04-22 17:07:01.636 INFO [main] [simpleMVC.launcher.AbstractApplicationLauncher.execute(AbstractApplicationLauncher.java:203)] - after_execute
+2023-04-22 17:07:01.642 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.application.AbstractApplication.<init>(AbstractApplication.java:67)] - constructor_0
+2023-04-22 17:07:01.654 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.manager.DefaultViewManager.<init>(DefaultViewManager.java:65)] - DefaultViewManager_1
+2023-04-22 17:07:01.654 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.manager.DefaultViewManager.setPerspective(DefaultViewManager.java:49)] - setting_perspective
+2023-04-22 17:07:01.654 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.application.AbstractApplication.<init>(AbstractApplication.java:72)] - viewManager_is_not_null
+2023-04-22 17:07:01.654 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.application.AbstractApplication.setRootView(AbstractApplication.java:172)] - Setting_Root_View
+2023-04-22 17:07:01.655 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.application.AbstractApplication.prepare(AbstractApplication.java:117)] - Application preparing!
+2023-04-22 17:07:01.655 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.application.AbstractApplication.prepare(AbstractApplication.java:118)] - prepare_called!
+2023-04-22 17:07:01.655 INFO [SwingWorker-pool-2-thread-1] [simpleMVC.launcher.AbstractApplicationLauncher.debugJustInCase(AbstractApplicationLauncher.java:78)] - Init: Back actions finished
+2023-04-22 17:07:01.680 INFO [AWT-EventQueue-0] [simpleMVC.launcher.AbstractApplicationLauncher.debugJustInCase(AbstractApplicationLauncher.java:78)] - Init: Executing PrepareUI
+2023-04-22 17:07:01.681 INFO [AWT-EventQueue-0] [simpleMVC.application.AbstractApplication.prepareUI(AbstractApplication.java:134)] - Application preparing UI!
+2023-04-22 17:07:01.681 INFO [AWT-EventQueue-0] [simpleMVC.application.AbstractApplication.prepareUI(AbstractApplication.java:136)] - this_is_root_view
+2023-04-22 17:07:01.681 INFO [AWT-EventQueue-0] [simpleMVC.application.AbstractApplication.initUI(AbstractApplication.java:144)] - Application UI initializing!
+2023-04-22 17:07:01.681 INFO [AWT-EventQueue-0] [simpleMVC.application.AbstractApplication.initUI(AbstractApplication.java:146)] - checkPost_1
+2023-04-22 17:07:01.681 INFO [AWT-EventQueue-0] [simpleMVC.manager.DefaultViewManager.getRootView(DefaultViewManager.java:96)] - get_root_view_is_started
+2023-04-22 17:07:01.681 INFO [AWT-EventQueue-0] [simpleMVC.manager.DefaultViewManager.getRootView(DefaultViewManager.java:105)] - root_view_is_not_null
+2023-04-22 17:07:01.681 INFO [AWT-EventQueue-0] [simpleMVC.manager.DefaultViewManager.getRootView(DefaultViewManager.java:107)] - get_root_view_is_finished
+2023-04-22 17:07:01.682 INFO [AWT-EventQueue-0] [simpleMVC.container.AbstractViewContainerFrame.getFrame(AbstractViewContainerFrame.java:43)] - get_frame_called
+2023-04-22 17:07:01.686 INFO [AWT-EventQueue-0] [simpleMVC.manager.AbstractViewManager.arrangeViews(AbstractViewManager.java:105)] - perspective_is_not_null
+2023-04-22 17:07:01.686 INFO [AWT-EventQueue-0] [simpleMVC.manager.AbstractViewManager.addView(AbstractViewManager.java:54)] - add_view_called
+2023-04-22 17:07:01.687 INFO [AWT-EventQueue-0] [simpleMVC.container.AbstractViewContainer.setApplication(AbstractViewContainer.java:147)] - set_application_called
+2023-04-22 17:07:01.687 INFO [AWT-EventQueue-0] [simpleMVC.container.AbstractViewContainer.setApplication(AbstractViewContainer.java:149)] - application_is_not_null
+2023-04-22 17:07:01.687 INFO [AWT-EventQueue-0] [simpleMVC.application.AbstractApplication.initUI(AbstractApplication.java:148)] - checkPost_2
+2023-04-22 17:07:01.730 INFO [AWT-EventQueue-0] [simpleMVC.application.AbstractApplication.initUI(AbstractApplication.java:150)] - checkPost_3
+2023-04-22 17:07:01.730 INFO [main] [simpleMVC.launcher.AbstractApplicationLauncher.execute(AbstractApplicationLauncher.java:205)] - after_wait
+2023-04-22 17:07:11.995 INFO [AWT-EventQueue-0] [simpleMVC.container.AbstractViewContainer.getApplication(AbstractViewContainer.java:166)] - get_application_called
+2023-04-22 17:07:11.996 INFO [AWT-EventQueue-0] [simpleMVC.container.AbstractViewContainer.getApplication(AbstractViewContainer.java:168)] - application_is_not_null
+2023-04-22 17:07:11.996 INFO [AWT-EventQueue-0] [simpleMVC.application.AbstractApplication.close(AbstractApplication.java:101)] - Application closing!
+2023-04-22 17:07:11.996 INFO [AWT-EventQueue-0] [simpleMVC.application.AbstractApplication.close(AbstractApplication.java:102)] - Application_closing!
+2023-04-22 17:07:11.997 INFO [AWT-EventQueue-0] [simpleMVC.manager.DefaultViewManager.getRootView(DefaultViewManager.java:96)] - get_root_view_is_started
+2023-04-22 17:07:11.997 INFO [AWT-EventQueue-0] [simpleMVC.manager.DefaultViewManager.getRootView(DefaultViewManager.java:105)] - root_view_is_not_null
+2023-04-22 17:07:11.997 INFO [AWT-EventQueue-0] [simpleMVC.manager.DefaultViewManager.getRootView(DefaultViewManager.java:107)] - get_root_view_is_finished
+2023-04-22 17:07:11.998 INFO [AWT-EventQueue-0] [simpleMVC.container.AbstractViewContainerFrame.getFrame(AbstractViewContainerFrame.java:43)] - get_frame_called
